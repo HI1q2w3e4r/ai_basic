@@ -8,7 +8,8 @@
  04:00 ~ 04:45 <br> 
  05:00 ~ 05:40 <br>
 
-
+<br>
+<br>
 
 ### 강의 일정 <br>
 
@@ -35,7 +36,8 @@
 #### (git 사용기간 : 2020.11.03  ~ 2020.11.16 , 이후에는 접속 불가)
 
 
-
+<br>
+<br>
 ### 참고 사이트
 <br>
 Kaggle <br>
@@ -95,6 +97,7 @@ https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/#id1
 
 ### 점프투 파이썬 온라인 공개 URL
 https://wikidocs.net/4307
+<br>
 <br>
    
 ### [AI 기본과정 참고서적]
