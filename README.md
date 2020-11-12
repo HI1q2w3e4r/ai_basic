@@ -305,7 +305,7 @@ https://datamod.tistory.com/139
 
 ####  Anaconda Prompt를 관리자 권한으로 실행하고 아래 명령을 실행한다
 #### conda create -n tf230 python=3.7 anaconda  
-#### conda activate tf20
+#### conda activate tf230
 #### python -m pip install --upgrade pip
 #### pip3 install tensorflow==2.3.0
 <br>
